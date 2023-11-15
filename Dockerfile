@@ -1,4 +1,4 @@
-FROM alpine:latest:
+FROM alpine:latest
 
 MAINTAINER YYgiegie "https://github.com/YYgiegie"
 
