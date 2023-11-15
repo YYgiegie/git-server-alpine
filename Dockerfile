@@ -1,6 +1,6 @@
 FROM alpine:latest:
 
-MAINTAINER Carlos Bernárdez "https://github.com/YYgiegie"
+MAINTAINER YYgiegie "https://github.com/YYgiegie"
 
 # "--no-cache" is new in Alpine 3.3 and it avoid using
 # "--update + rm -rf /var/cache/apk/*" (to remove cache)
